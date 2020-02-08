@@ -20,16 +20,12 @@ a:hover {
     text-decoration: underline;
     color: blue;
 }
-#moodpicstext{
-    text-align: center;
-}
 h1, h2{
     color: midnightblue;
 }
 #name{
     text-align: center;
 }
-
 em{
     font-style: normal;
     font-weight: bold; /*not possible to make it bold with Arial Black. Nevertheless, I liked the font itself*/
@@ -38,5 +34,10 @@ em{
 p:first-letter{
     font-size:200%;
     font-weight:bold;
-    
+}
+p{
+    display: inline-block;
+}
+div{
+    text-align: center;
 }
