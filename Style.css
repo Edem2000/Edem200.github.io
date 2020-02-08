@@ -35,3 +35,8 @@ em{
     font-weight: bold; /*not possible to make it bold with Arial Black. Nevertheless, I liked the font itself*/
     color: orangered;
 }
+p:first-letter{
+    font-size:200%;
+    font-weight:bold;
+    
+}
