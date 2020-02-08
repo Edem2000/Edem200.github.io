@@ -1,0 +1,37 @@
+.moodpics{
+    max-height: 500px;
+    max-width: 500px;
+}
+body   {
+    background-color: aquamarine;
+}
+h1, h2, p, li{
+    font-family: "Arial Black", Serif;
+}
+a:link {
+    text-decoration: none;
+    color: red;
+}
+a:visited{
+    text-decoration: none;
+    color: red;
+}
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+#moodpicstext{
+    text-align: center;
+}
+h1, h2{
+    color: midnightblue;
+}
+#name{
+    text-align: center;
+}
+
+em{
+    font-style: normal;
+    font-weight: bold; /*not possible to make it bold with Arial Black. Nevertheless, I liked the font itself*/
+    color: orangered;
+}
